@@ -1,6 +1,9 @@
 ----
 # HOW TO USE
 ----
+
+FYI: This version adds filters to the CBPLUS page
+
 You need some kind of "Tampermonkey" for you browser.
 
 Tested on: **Chrome-like** browser + **Tampermonkey**
